@@ -19,7 +19,7 @@ For building and running the application you need:
 
 ### Build & Run 
 ```
-  mvn clean install && mvn --projects backend spring-boot:run
+  mvn clean install && mvn --projects project_name spring-boot:run
 ```
   
 ### Port
